@@ -1,6 +1,3 @@
-[submodule "ehlphabet"]
-	path = ehlphabet
-	url = https://github.com/tiborvansa/minetest-elphebet
 [submodule "cube_nodes"]
 	path = cube_nodes
 	url = https://github.com/tiborvansa/minetest-cube_nodes
