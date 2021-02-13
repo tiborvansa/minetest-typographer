@@ -1,0 +1,3 @@
+[submodule "elphebet"]
+	path = elphebet
+	url = https://github.com/tiborvansa/minetest-elphebet
